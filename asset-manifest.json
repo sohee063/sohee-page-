@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sohee-page-/static/css/main.a68da77c.css",
+    "main.js": "/sohee-page-/static/js/main.18f3d30f.js",
+    "index.html": "/sohee-page-/index.html",
+    "main.a68da77c.css.map": "/sohee-page-/static/css/main.a68da77c.css.map",
+    "main.18f3d30f.js.map": "/sohee-page-/static/js/main.18f3d30f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a68da77c.css",
+    "static/js/main.18f3d30f.js"
+  ]
+}
